@@ -14,3 +14,4 @@ public class Customer {
 	}
 }
 ```
+![Result](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-coldbeatz/blob/main/Solution/done.png)
