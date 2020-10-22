@@ -1,11 +1,11 @@
 package test;
 
-import domain.Ñustomer;
+import domain.Ð¡ustomer;
 
 public class CustomerTest {
 	
 	public static void main(String[] args) {
-		Ñustomer customer = new Ñustomer();
+		Ð¡ustomer customer = new Ð¡ustomer();
 		customer.displayCustomerInfo();
 	}
 }

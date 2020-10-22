@@ -1,6 +1,6 @@
 package domain;
 
-public class Ñustomer {
+public class Ð¡ustomer {
 	
 	private long ID = 1;
 	private boolean isNew = true;
@@ -11,5 +11,4 @@ public class Ñustomer {
 		System.out.println("Is new: " + isNew);
 		System.out.println("Total purchases are: " + total);
 	}
-	
 }
