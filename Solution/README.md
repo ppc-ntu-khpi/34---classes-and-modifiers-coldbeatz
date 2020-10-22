@@ -1,4 +1,4 @@
-```
+```java
 package domain;
 
 public class Customer {
