@@ -1,4 +1,6 @@
-# Класс Customer
+#TASK 1
+===
+## Класс Customer
 
 ```java
 package domain;
@@ -18,6 +20,6 @@ public class Customer {
 ```
 
 ---
-# Результат
+## Результат
 
 ![Result](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-coldbeatz/blob/main/Solution/done.png)
