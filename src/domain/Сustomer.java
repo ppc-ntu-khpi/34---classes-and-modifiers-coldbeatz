@@ -1,6 +1,6 @@
 package domain;
 
-public class Ð¡ustomer {
+public class Ñustomer {
 	
 	private long ID = 1;
 	private boolean isNew = true;
